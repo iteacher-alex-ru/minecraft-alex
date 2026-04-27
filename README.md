@@ -7,4 +7,4 @@
 Автоматические функции, которые должны проверяться постоянно, добавляй сюда:
 
 ```text
-data/student/functions/auto_tick/
+data/alex/functions/auto_tick/

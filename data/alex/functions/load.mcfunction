@@ -1,0 +1,1 @@
+say Alex datapack loaded
